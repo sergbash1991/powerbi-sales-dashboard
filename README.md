@@ -16,7 +16,7 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 🔍 Main Insights
 
