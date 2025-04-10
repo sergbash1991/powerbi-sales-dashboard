@@ -1,4 +1,4 @@
-# 🧱 Sales Dashboard: Paving Materials
+# 🧱 Sales Performance Dashboard: Paving Materials
 
 This Power BI dashboard presents sales analytics for a construction materials company ("Тротуарка") over the period from October 2024 to March 2025.
 
